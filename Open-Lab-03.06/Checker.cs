@@ -6,7 +6,15 @@ namespace Open_Lab_03._06
     {
         public bool HasSpaces(string str)
         {
-            throw new NotImplementedException();
+            string text = "mka"
+            if(text.ToLower().Contains("mka"))
+            { 
+                Console.WriteLine(Ano);
+            }
+            else
+            { 
+                Console.WriteLine(Nie);
+            }
         }
     }
 }
